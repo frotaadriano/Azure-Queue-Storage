@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureQueueExemple1", "AzureQueueExemple1.csproj", "{BDB30125-DDB6-47FF-B4A8-2EC6BBA2CF79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB30125-DDB6-47FF-B4A8-2EC6BBA2CF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB30125-DDB6-47FF-B4A8-2EC6BBA2CF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB30125-DDB6-47FF-B4A8-2EC6BBA2CF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB30125-DDB6-47FF-B4A8-2EC6BBA2CF79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {337A896A-DD92-4E42-AD7D-C096D237D089}
+	EndGlobalSection
+EndGlobal

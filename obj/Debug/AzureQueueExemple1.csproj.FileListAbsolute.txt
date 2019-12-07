@@ -1,0 +1,16 @@
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\bin\Debug\AzureQueueExemple1.exe.config
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\bin\Debug\AzureQueueExemple1.exe
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\bin\Debug\AzureQueueExemple1.pdb
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\bin\Debug\Microsoft.Azure.ConfigurationManager.dll
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\bin\Debug\Microsoft.Azure.Storage.Queue.dll
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\bin\Debug\Microsoft.Azure.ConfigurationManager.xml
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\bin\Debug\Microsoft.Azure.Storage.Common.xml
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\bin\Debug\Microsoft.Azure.Storage.Queue.xml
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\obj\Debug\AzureQueueExemple1.csproj.CopyComplete
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\obj\Debug\AzureQueueExemple1.exe
+C:\Users\adriano.frota.silva\source\repos\AzureQueueExemple1\obj\Debug\AzureQueueExemple1.pdb
